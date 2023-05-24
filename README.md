@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">A depressive developer n cyber security engineer from middle world</h3>
+<h3 align="center">A depressive developer n cyber security engineer from middle-earth</h3>
+<h3 align="center">little bit gamer, a little bit fan of starwars, apple, rainbow six siege</h3>
+
 
 - 🔭 I’m currently studying in **Fırat University**
 
