@@ -1,1 +1,1 @@
-Console.Log{'hi"}
+const pair = "extraordinarie";
