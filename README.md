@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently studying in **Fırat University**<br><br>- 🌱 I’m currently learning **Deep Learning**<br><br>- 📝 I regularly write articles on [https://sametyilmaztemel.com/me.php/](https://sametyilmaztemel.com/me.php)<br><br>- 🤤 Star Wars, NBA, Apple, F1, MotoGP, Rainbow Six Siege Fan<br><br>- 😈 Mamba Mentality<br><br>- 📫 How to reach me **samet@sametyilmaztemel.com**
+- 🔭 I’m currently studying in **Fırat University**<br><br>- 🌱 I’m currently learning **Deep Learning**<br><br>- 📝 I regularly write articles on [https://sametyilmaztemel.com/me.php/](https://sametyilmaztemel.com/me.php)<br><br>- 🤤 Star Wars , NBA, Apple, F1, MotoGP, Rainbow Six Siege Fan<br><br>- 😈 Mamba Mentality<br><br>- 📫 How to reach me **samet@sametyilmaztemel.com**
 
 
 ## 🌐 Socials:
