@@ -1,1 +1,2 @@
 - 2026-04-11: docs: update contribution tracker
+- 2026-04-12: docs: add weekly summary
