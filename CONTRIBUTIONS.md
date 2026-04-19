@@ -2,3 +2,4 @@
 - 2026-04-12: docs: add weekly summary
 - 2026-04-13: docs: refine project notes
 - 2026-04-14: docs: update knowledge base links
+- 2026-04-19: docs: sync research notes
