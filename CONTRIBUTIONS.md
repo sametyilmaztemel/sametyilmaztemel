@@ -13,3 +13,4 @@
 - 2026-05-01: chore: configure CI pipeline stages
 - 2026-05-01: feat: implement health check endpoints
 - 2026-05-01: docs: update system architecture diagram
+- 2026-05-01: feat: add input validation layer
