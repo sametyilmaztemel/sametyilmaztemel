@@ -20,3 +20,4 @@
 - 2026-05-01: test: add property-based tests for parser
 - 2026-05-01: fix: correct timezone handling in scheduler
 - 2026-05-01: test: add integration tests for auth flow
+- 2026-05-01: feat: add rate limiting middleware
