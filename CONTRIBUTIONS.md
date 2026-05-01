@@ -27,3 +27,4 @@
 - 2026-05-01: docs: update architecture decision records
 - 2026-05-01: refactor: simplify error handling with result type
 - 2026-05-01: fix: resolve edge case in data pipeline
+- 2026-05-01: refactor: migrate to async/await pattern
