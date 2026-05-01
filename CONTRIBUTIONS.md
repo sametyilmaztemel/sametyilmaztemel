@@ -24,3 +24,4 @@
 - 2026-05-01: docs: document deployment procedures
 - 2026-05-01: test: expand unit test coverage
 - 2026-05-01: perf: add connection pooling for database
+- 2026-05-01: docs: update architecture decision records
