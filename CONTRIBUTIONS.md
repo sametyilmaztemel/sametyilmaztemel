@@ -15,3 +15,4 @@
 - 2026-05-01: docs: update system architecture diagram
 - 2026-05-01: feat: add input validation layer
 - 2026-05-01: perf: optimize database query patterns
+- 2026-05-01: feat: implement caching layer with Redis
