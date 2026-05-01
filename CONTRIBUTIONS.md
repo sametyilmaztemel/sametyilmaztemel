@@ -19,3 +19,4 @@
 - 2026-05-01: refactor: extract shared utilities to common module
 - 2026-05-01: test: add property-based tests for parser
 - 2026-05-01: fix: correct timezone handling in scheduler
+- 2026-05-01: test: add integration tests for auth flow
