@@ -22,3 +22,4 @@
 - 2026-05-01: test: add integration tests for auth flow
 - 2026-05-01: feat: add rate limiting middleware
 - 2026-05-01: docs: document deployment procedures
+- 2026-05-01: test: expand unit test coverage
