@@ -17,3 +17,4 @@
 - 2026-05-01: perf: optimize database query patterns
 - 2026-05-01: feat: implement caching layer with Redis
 - 2026-05-01: refactor: extract shared utilities to common module
+- 2026-05-01: test: add property-based tests for parser
