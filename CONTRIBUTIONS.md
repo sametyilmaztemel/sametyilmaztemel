@@ -40,3 +40,4 @@
 - 2026-05-02: feat: add rate limiting middleware
 - 2026-05-02: docs: update architecture decision records
 - 2026-05-02: fix: handle null responses in API client
+- 2026-05-02: refactor: migrate to async/await pattern
