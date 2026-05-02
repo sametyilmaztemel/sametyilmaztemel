@@ -36,3 +36,4 @@
 - 2026-05-02: feat: add input validation layer
 - 2026-05-02: docs: add API endpoint documentation
 - 2026-05-02: fix: correct timezone handling in scheduler
+- 2026-05-02: fix: patch memory leak in WebSocket handler
