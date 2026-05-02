@@ -34,3 +34,4 @@
 - 2026-05-01: refactor: improve module structure and imports
 - 2026-05-02: chore: update dependencies and lockfile
 - 2026-05-02: feat: add input validation layer
+- 2026-05-02: docs: add API endpoint documentation
