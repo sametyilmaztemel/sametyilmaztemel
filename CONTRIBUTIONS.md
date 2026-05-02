@@ -42,3 +42,4 @@
 - 2026-05-02: fix: handle null responses in API client
 - 2026-05-02: refactor: migrate to async/await pattern
 - 2026-05-02: test: add property-based tests for parser
+- 2026-05-02: feat: implement health check endpoints
