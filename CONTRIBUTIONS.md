@@ -46,3 +46,4 @@
 - 2026-05-02: test: add integration tests for auth flow
 - 2026-05-02: test: expand unit test coverage
 - 2026-05-02: fix: resolve edge case in data pipeline
+- 2026-05-02: docs: document deployment procedures
