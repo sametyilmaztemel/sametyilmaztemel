@@ -38,3 +38,4 @@
 - 2026-05-02: fix: correct timezone handling in scheduler
 - 2026-05-02: fix: patch memory leak in WebSocket handler
 - 2026-05-02: feat: add rate limiting middleware
+- 2026-05-02: docs: update architecture decision records
