@@ -32,3 +32,4 @@
 - 2026-05-01: docs: create onboarding guide for new contributors
 - 2026-05-01: fix: handle null responses in API client
 - 2026-05-01: refactor: improve module structure and imports
+- 2026-05-02: chore: update dependencies and lockfile
