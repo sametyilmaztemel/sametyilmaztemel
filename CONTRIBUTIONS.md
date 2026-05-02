@@ -52,3 +52,4 @@
 - 2026-05-02: refactor: improve module structure and imports
 - 2026-05-02: chore: configure CI pipeline stages
 - 2026-05-02: perf: add connection pooling for database
+- 2026-05-02: docs: create onboarding guide for new contributors
