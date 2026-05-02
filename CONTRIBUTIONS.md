@@ -44,3 +44,4 @@
 - 2026-05-02: test: add property-based tests for parser
 - 2026-05-02: feat: implement health check endpoints
 - 2026-05-02: test: add integration tests for auth flow
+- 2026-05-02: test: expand unit test coverage
