@@ -81,3 +81,4 @@
 - 2026-05-03: chore: set up pre-commit hooks
 - 2026-05-03: refactor: migrate to async/await pattern
 - 2026-05-03: feat: implement health check endpoints
+- 2026-05-03: docs: add API endpoint documentation
