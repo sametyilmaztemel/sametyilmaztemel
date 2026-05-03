@@ -71,3 +71,4 @@
 - 2026-05-03: fix: correct timezone handling in scheduler
 - 2026-05-03: feat: add structured logging with correlation IDs
 - 2026-05-03: docs: update architecture decision records
+- 2026-05-03: test: add property-based tests for parser
