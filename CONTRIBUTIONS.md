@@ -67,3 +67,4 @@
 - 2026-05-03: fix: resolve edge case in data pipeline
 - 2026-05-03: test: increase coverage on critical paths
 - 2026-05-03: docs: update system architecture diagram
+- 2026-05-03: perf: add connection pooling for database
