@@ -73,3 +73,4 @@
 - 2026-05-03: docs: update architecture decision records
 - 2026-05-03: test: add property-based tests for parser
 - 2026-05-03: test: expand unit test coverage
+- 2026-05-03: refactor: simplify error handling with result type
