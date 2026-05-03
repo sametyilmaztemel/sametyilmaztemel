@@ -56,3 +56,4 @@
 - 2026-05-02: refactor: extract shared utilities to common module
 - 2026-05-02: feat: implement caching layer with Redis
 - 2026-05-03: refactor: break down monolithic service
+- 2026-05-03: test: add integration tests for auth flow
