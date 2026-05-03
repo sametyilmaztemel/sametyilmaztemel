@@ -77,3 +77,4 @@
 - 2026-05-03: fix: patch memory leak in WebSocket handler
 - 2026-05-03: fix: handle null responses in API client
 - 2026-05-03: docs: create onboarding guide for new contributors
+- 2026-05-03: refactor: improve module structure and imports
