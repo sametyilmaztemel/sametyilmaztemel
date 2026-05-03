@@ -70,3 +70,4 @@
 - 2026-05-03: perf: add connection pooling for database
 - 2026-05-03: fix: correct timezone handling in scheduler
 - 2026-05-03: feat: add structured logging with correlation IDs
+- 2026-05-03: docs: update architecture decision records
