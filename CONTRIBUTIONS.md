@@ -65,3 +65,4 @@
 - 2026-05-03: feat: add rate limiting middleware
 - 2026-05-03: refactor: extract shared utilities to common module
 - 2026-05-03: fix: resolve edge case in data pipeline
+- 2026-05-03: test: increase coverage on critical paths
