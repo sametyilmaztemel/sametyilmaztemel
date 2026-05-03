@@ -79,3 +79,4 @@
 - 2026-05-03: docs: create onboarding guide for new contributors
 - 2026-05-03: refactor: improve module structure and imports
 - 2026-05-03: chore: set up pre-commit hooks
+- 2026-05-03: refactor: migrate to async/await pattern
