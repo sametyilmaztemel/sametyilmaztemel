@@ -63,3 +63,4 @@
 - 2026-05-03: feat: add input validation layer
 - 2026-05-03: chore: update dependencies and lockfile
 - 2026-05-03: feat: add rate limiting middleware
+- 2026-05-03: refactor: extract shared utilities to common module
