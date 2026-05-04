@@ -96,3 +96,4 @@
 - 2026-05-04: docs: add API endpoint documentation
 - 2026-05-04: docs: update system architecture diagram
 - 2026-05-04: refactor: simplify error handling with result type
+- 2026-05-04: test: add integration tests for auth flow
