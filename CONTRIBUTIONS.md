@@ -89,3 +89,4 @@
 - 2026-05-04: refactor: extract shared utilities to common module
 - 2026-05-04: perf: add connection pooling for database
 - 2026-05-04: perf: optimize database query patterns
+- 2026-05-04: feat: implement health check endpoints
