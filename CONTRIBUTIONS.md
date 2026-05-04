@@ -94,3 +94,4 @@
 - 2026-05-04: fix: patch memory leak in WebSocket handler
 - 2026-05-04: fix: handle null responses in API client
 - 2026-05-04: docs: add API endpoint documentation
+- 2026-05-04: docs: update system architecture diagram
