@@ -103,3 +103,4 @@
 - 2026-05-04: fix: resolve edge case in data pipeline
 - 2026-05-04: chore: update dependencies and lockfile
 - 2026-05-04: docs: update architecture decision records
+- 2026-05-04: feat: add input validation layer
