@@ -86,3 +86,4 @@
 - 2026-05-04: chore: configure CI pipeline stages
 - 2026-05-04: test: add property-based tests for parser
 - 2026-05-04: feat: implement caching layer with Redis
+- 2026-05-04: refactor: extract shared utilities to common module
