@@ -104,3 +104,4 @@
 - 2026-05-04: chore: update dependencies and lockfile
 - 2026-05-04: docs: update architecture decision records
 - 2026-05-04: feat: add input validation layer
+- 2026-05-04: refactor: migrate to async/await pattern
