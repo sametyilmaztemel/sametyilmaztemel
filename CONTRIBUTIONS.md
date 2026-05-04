@@ -106,3 +106,4 @@
 - 2026-05-04: feat: add input validation layer
 - 2026-05-04: refactor: migrate to async/await pattern
 - 2026-05-04: fix: correct timezone handling in scheduler
+- 2026-05-04: docs: document deployment procedures
