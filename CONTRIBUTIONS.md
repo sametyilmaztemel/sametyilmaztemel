@@ -91,3 +91,4 @@
 - 2026-05-04: perf: optimize database query patterns
 - 2026-05-04: feat: implement health check endpoints
 - 2026-05-04: docs: create onboarding guide for new contributors
+- 2026-05-04: fix: patch memory leak in WebSocket handler
