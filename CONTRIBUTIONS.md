@@ -95,3 +95,4 @@
 - 2026-05-04: fix: handle null responses in API client
 - 2026-05-04: docs: add API endpoint documentation
 - 2026-05-04: docs: update system architecture diagram
+- 2026-05-04: refactor: simplify error handling with result type
