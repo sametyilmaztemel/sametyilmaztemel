@@ -92,3 +92,4 @@
 - 2026-05-04: feat: implement health check endpoints
 - 2026-05-04: docs: create onboarding guide for new contributors
 - 2026-05-04: fix: patch memory leak in WebSocket handler
+- 2026-05-04: fix: handle null responses in API client
