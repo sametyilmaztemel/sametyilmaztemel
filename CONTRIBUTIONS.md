@@ -128,3 +128,4 @@
 - 2026-05-05: test: add property-based tests for parser
 - 2026-05-05: refactor: migrate to async/await pattern
 - 2026-05-05: chore: configure CI pipeline stages
+- 2026-05-05: fix: handle null responses in API client
