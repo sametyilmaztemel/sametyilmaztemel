@@ -117,3 +117,4 @@
 - 2026-05-05: docs: update system architecture diagram
 - 2026-05-05: refactor: extract shared utilities to common module
 - 2026-05-05: feat: add input validation layer
+- 2026-05-05: feat: implement caching layer with Redis
