@@ -122,3 +122,4 @@
 - 2026-05-05: test: add integration tests for auth flow
 - 2026-05-05: feat: add rate limiting middleware
 - 2026-05-05: docs: update architecture decision records
+- 2026-05-05: fix: patch memory leak in WebSocket handler
