@@ -120,3 +120,4 @@
 - 2026-05-05: feat: implement caching layer with Redis
 - 2026-05-05: perf: optimize database query patterns
 - 2026-05-05: test: add integration tests for auth flow
+- 2026-05-05: feat: add rate limiting middleware
