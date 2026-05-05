@@ -115,3 +115,4 @@
 - 2026-05-05: feat: implement health check endpoints
 - 2026-05-05: docs: create onboarding guide for new contributors
 - 2026-05-05: docs: update system architecture diagram
+- 2026-05-05: refactor: extract shared utilities to common module
