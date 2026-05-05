@@ -125,3 +125,4 @@
 - 2026-05-05: fix: patch memory leak in WebSocket handler
 - 2026-05-05: chore: update dependencies and lockfile
 - 2026-05-05: refactor: simplify error handling with result type
+- 2026-05-05: test: add property-based tests for parser
