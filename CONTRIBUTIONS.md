@@ -130,3 +130,4 @@
 - 2026-05-05: chore: configure CI pipeline stages
 - 2026-05-05: fix: handle null responses in API client
 - 2026-05-05: docs: document deployment procedures
+- 2026-05-05: fix: correct timezone handling in scheduler
