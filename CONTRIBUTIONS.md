@@ -116,3 +116,4 @@
 - 2026-05-05: docs: create onboarding guide for new contributors
 - 2026-05-05: docs: update system architecture diagram
 - 2026-05-05: refactor: extract shared utilities to common module
+- 2026-05-05: feat: add input validation layer
