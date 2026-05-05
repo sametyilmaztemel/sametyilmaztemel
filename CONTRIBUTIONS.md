@@ -114,3 +114,4 @@
 - 2026-05-05: test: expand unit test coverage
 - 2026-05-05: feat: implement health check endpoints
 - 2026-05-05: docs: create onboarding guide for new contributors
+- 2026-05-05: docs: update system architecture diagram
