@@ -123,3 +123,4 @@
 - 2026-05-05: feat: add rate limiting middleware
 - 2026-05-05: docs: update architecture decision records
 - 2026-05-05: fix: patch memory leak in WebSocket handler
+- 2026-05-05: chore: update dependencies and lockfile
