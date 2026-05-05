@@ -110,3 +110,4 @@
 - 2026-05-05: refactor: improve module structure and imports
 - 2026-05-05: perf: add connection pooling for database
 - 2026-05-05: fix: resolve edge case in data pipeline
+- 2026-05-05: docs: add API endpoint documentation
