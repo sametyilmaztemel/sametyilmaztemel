@@ -148,3 +148,4 @@
 - 2026-05-06: chore: update dependencies and lockfile
 - 2026-05-06: fix: patch memory leak in WebSocket handler
 - 2026-05-06: fix: resolve edge case in data pipeline
+- 2026-05-06: docs: add API endpoint documentation
