@@ -133,3 +133,4 @@
 - 2026-05-05: fix: correct timezone handling in scheduler
 - 2026-05-06: perf: add connection pooling for database
 - 2026-05-06: fix: handle null responses in API client
+- 2026-05-06: feat: add input validation layer
