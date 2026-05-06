@@ -146,3 +146,4 @@
 - 2026-05-06: test: expand unit test coverage
 - 2026-05-06: docs: create onboarding guide for new contributors
 - 2026-05-06: chore: update dependencies and lockfile
+- 2026-05-06: fix: patch memory leak in WebSocket handler
