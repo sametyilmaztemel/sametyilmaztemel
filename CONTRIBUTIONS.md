@@ -138,3 +138,4 @@
 - 2026-05-06: docs: update architecture decision records
 - 2026-05-06: refactor: improve module structure and imports
 - 2026-05-06: feat: implement caching layer with Redis
+- 2026-05-06: docs: document deployment procedures
