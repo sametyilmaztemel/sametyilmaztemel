@@ -135,3 +135,4 @@
 - 2026-05-06: fix: handle null responses in API client
 - 2026-05-06: feat: add input validation layer
 - 2026-05-06: refactor: migrate to async/await pattern
+- 2026-05-06: docs: update architecture decision records
