@@ -144,3 +144,4 @@
 - 2026-05-06: fix: correct timezone handling in scheduler
 - 2026-05-06: feat: add rate limiting middleware
 - 2026-05-06: test: expand unit test coverage
+- 2026-05-06: docs: create onboarding guide for new contributors
