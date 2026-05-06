@@ -140,3 +140,4 @@
 - 2026-05-06: feat: implement caching layer with Redis
 - 2026-05-06: docs: document deployment procedures
 - 2026-05-06: test: add property-based tests for parser
+- 2026-05-06: test: add integration tests for auth flow
