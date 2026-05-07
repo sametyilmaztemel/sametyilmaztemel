@@ -171,3 +171,4 @@
 - 2026-05-07: docs: update architecture decision records
 - 2026-05-07: refactor: extract shared utilities to common module
 - 2026-05-07: fix: handle null responses in API client
+- 2026-05-07: test: expand unit test coverage
