@@ -164,3 +164,4 @@
 - 2026-05-07: fix: resolve edge case in data pipeline
 - 2026-05-07: refactor: simplify error handling with result type
 - 2026-05-07: feat: implement health check endpoints
+- 2026-05-07: docs: document deployment procedures
