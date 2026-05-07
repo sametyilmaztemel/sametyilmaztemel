@@ -176,3 +176,4 @@
 - 2026-05-07: feat: implement caching layer with Redis
 - 2026-05-07: refactor: migrate to async/await pattern
 - 2026-05-07: test: add property-based tests for parser
+- 2026-05-07: docs: create onboarding guide for new contributors
