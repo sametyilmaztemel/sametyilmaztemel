@@ -174,3 +174,4 @@
 - 2026-05-07: test: expand unit test coverage
 - 2026-05-07: docs: add API endpoint documentation
 - 2026-05-07: feat: implement caching layer with Redis
+- 2026-05-07: refactor: migrate to async/await pattern
