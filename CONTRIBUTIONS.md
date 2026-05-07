@@ -167,3 +167,4 @@
 - 2026-05-07: docs: document deployment procedures
 - 2026-05-07: docs: update system architecture diagram
 - 2026-05-07: chore: configure CI pipeline stages
+- 2026-05-07: fix: patch memory leak in WebSocket handler
