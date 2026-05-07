@@ -159,3 +159,4 @@
 - 2026-05-07: perf: add connection pooling for database
 - 2026-05-07: feat: add rate limiting middleware
 - 2026-05-07: test: add integration tests for auth flow
+- 2026-05-07: feat: add input validation layer
