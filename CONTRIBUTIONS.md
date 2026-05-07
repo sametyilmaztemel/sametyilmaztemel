@@ -172,3 +172,4 @@
 - 2026-05-07: refactor: extract shared utilities to common module
 - 2026-05-07: fix: handle null responses in API client
 - 2026-05-07: test: expand unit test coverage
+- 2026-05-07: docs: add API endpoint documentation
