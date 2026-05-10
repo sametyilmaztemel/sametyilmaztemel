@@ -188,3 +188,4 @@
 - 2026-05-10: test: add property-based tests for parser
 - 2026-05-10: chore: update dependencies and lockfile
 - 2026-05-10: perf: optimize database query patterns
+- 2026-05-10: fix: handle null responses in API client
