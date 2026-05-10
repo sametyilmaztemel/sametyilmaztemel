@@ -205,3 +205,4 @@
 - 2026-05-10: chore: set up pre-commit hooks
 - 2026-05-10: refactor: simplify error handling with result type
 - 2026-05-10: docs: write runbook for incident response
+- 2026-05-10: docs: update architecture decision records
