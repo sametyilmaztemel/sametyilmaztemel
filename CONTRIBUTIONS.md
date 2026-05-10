@@ -196,3 +196,4 @@
 - 2026-05-10: fix: correct timezone handling in scheduler
 - 2026-05-10: refactor: break down monolithic service
 - 2026-05-10: perf: add connection pooling for database
+- 2026-05-10: docs: create onboarding guide for new contributors
