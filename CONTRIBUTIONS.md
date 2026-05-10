@@ -182,3 +182,4 @@
 - 2026-05-10: docs: document deployment procedures
 - 2026-05-10: test: add integration tests for auth flow
 - 2026-05-10: refactor: extract shared utilities to common module
+- 2026-05-10: fix: patch memory leak in WebSocket handler
