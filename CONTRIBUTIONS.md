@@ -178,3 +178,4 @@
 - 2026-05-07: test: add property-based tests for parser
 - 2026-05-07: docs: create onboarding guide for new contributors
 - 2026-05-07: fix: correct timezone handling in scheduler
+- 2026-05-10: feat: add structured logging with correlation IDs
