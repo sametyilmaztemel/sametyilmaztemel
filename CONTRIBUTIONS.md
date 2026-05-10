@@ -208,3 +208,4 @@
 - 2026-05-10: docs: update architecture decision records
 - 2026-05-10: docs: update system architecture diagram
 - 2026-05-10: feat: implement caching layer with Redis
+- 2026-05-10: feat: add input validation layer
