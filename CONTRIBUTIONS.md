@@ -184,3 +184,4 @@
 - 2026-05-10: refactor: extract shared utilities to common module
 - 2026-05-10: fix: patch memory leak in WebSocket handler
 - 2026-05-10: feat: add rate limiting middleware
+- 2026-05-10: test: expand unit test coverage
