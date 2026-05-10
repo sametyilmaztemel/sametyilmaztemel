@@ -181,3 +181,4 @@
 - 2026-05-10: feat: add structured logging with correlation IDs
 - 2026-05-10: docs: document deployment procedures
 - 2026-05-10: test: add integration tests for auth flow
+- 2026-05-10: refactor: extract shared utilities to common module
