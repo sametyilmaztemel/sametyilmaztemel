@@ -185,3 +185,4 @@
 - 2026-05-10: fix: patch memory leak in WebSocket handler
 - 2026-05-10: feat: add rate limiting middleware
 - 2026-05-10: test: expand unit test coverage
+- 2026-05-10: test: add property-based tests for parser
