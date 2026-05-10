@@ -180,3 +180,4 @@
 - 2026-05-07: fix: correct timezone handling in scheduler
 - 2026-05-10: feat: add structured logging with correlation IDs
 - 2026-05-10: docs: document deployment procedures
+- 2026-05-10: test: add integration tests for auth flow
