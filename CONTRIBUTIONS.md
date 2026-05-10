@@ -200,3 +200,4 @@
 - 2026-05-10: docs: add API endpoint documentation
 - 2026-05-10: docs: update architecture decision records (part 2)
 - 2026-05-10: chore: configure CI pipeline stages
+- 2026-05-10: test: increase coverage on critical paths
