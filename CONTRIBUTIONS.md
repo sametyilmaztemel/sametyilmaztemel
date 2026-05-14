@@ -233,3 +233,4 @@
 - 2026-05-14: fix: patch memory leak in WebSocket handler
 - 2026-05-14: perf: add connection pooling for database
 - 2026-05-14: fix: correct timezone handling in scheduler
+- 2026-05-14: fix: handle null responses in API client
