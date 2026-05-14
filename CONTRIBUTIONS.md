@@ -218,3 +218,4 @@
 - 2026-05-14: feat: add input validation layer
 - 2026-05-14: refactor: improve module structure and imports
 - 2026-05-14: test: increase coverage on critical paths
+- 2026-05-14: docs: create onboarding guide for new contributors
