@@ -231,3 +231,4 @@
 - 2026-05-14: docs: update architecture decision records
 - 2026-05-14: fix: resolve edge case in data pipeline
 - 2026-05-14: fix: patch memory leak in WebSocket handler
+- 2026-05-14: perf: add connection pooling for database
