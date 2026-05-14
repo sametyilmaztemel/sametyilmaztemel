@@ -221,3 +221,4 @@
 - 2026-05-14: docs: create onboarding guide for new contributors
 - 2026-05-14: docs: add API endpoint documentation
 - 2026-05-14: docs: update system architecture diagram
+- 2026-05-14: feat: implement caching layer with Redis
