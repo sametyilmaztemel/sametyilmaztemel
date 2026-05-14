@@ -229,3 +229,4 @@
 - 2026-05-14: test: add property-based tests for parser
 - 2026-05-14: chore: update dependencies and lockfile
 - 2026-05-14: docs: update architecture decision records
+- 2026-05-14: fix: resolve edge case in data pipeline
