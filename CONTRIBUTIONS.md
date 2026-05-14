@@ -213,3 +213,4 @@
 - 2026-05-14: perf: optimize database query patterns
 - 2026-05-14: chore: set up pre-commit hooks
 - 2026-05-14: feat: implement health check endpoints
+- 2026-05-14: feat: add structured logging with correlation IDs
