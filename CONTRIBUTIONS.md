@@ -215,3 +215,4 @@
 - 2026-05-14: feat: implement health check endpoints
 - 2026-05-14: feat: add structured logging with correlation IDs
 - 2026-05-14: docs: document deployment procedures
+- 2026-05-14: feat: add input validation layer
