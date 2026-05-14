@@ -230,3 +230,4 @@
 - 2026-05-14: chore: update dependencies and lockfile
 - 2026-05-14: docs: update architecture decision records
 - 2026-05-14: fix: resolve edge case in data pipeline
+- 2026-05-14: fix: patch memory leak in WebSocket handler
