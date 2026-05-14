@@ -223,3 +223,4 @@
 - 2026-05-14: docs: update system architecture diagram
 - 2026-05-14: feat: implement caching layer with Redis
 - 2026-05-14: test: add integration tests for auth flow
+- 2026-05-14: test: expand unit test coverage
