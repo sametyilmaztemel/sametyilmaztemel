@@ -226,3 +226,4 @@
 - 2026-05-14: test: expand unit test coverage
 - 2026-05-14: feat: add rate limiting middleware
 - 2026-05-14: refactor: break down monolithic service
+- 2026-05-14: test: add property-based tests for parser
