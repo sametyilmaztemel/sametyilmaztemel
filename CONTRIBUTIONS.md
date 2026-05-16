@@ -249,3 +249,4 @@
 - 2026-05-16: fix: correct timezone handling in scheduler
 - 2026-05-16: docs: document deployment procedures
 - 2026-05-16: perf: optimize database query patterns
+- 2026-05-16: perf: add connection pooling for database
