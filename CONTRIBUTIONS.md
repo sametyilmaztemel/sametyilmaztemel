@@ -243,3 +243,4 @@
 - 2026-05-16: refactor: migrate to async/await pattern
 - 2026-05-16: refactor: simplify error handling with result type
 - 2026-05-16: docs: add API endpoint documentation
+- 2026-05-16: feat: implement caching layer with Redis
