@@ -260,3 +260,4 @@
 - 2026-05-16: test: expand unit test coverage
 - 2026-05-16: feat: add input validation layer
 - 2026-05-16: docs: create onboarding guide for new contributors
+- 2026-05-16: test: add property-based tests for parser
