@@ -252,3 +252,4 @@
 - 2026-05-16: perf: add connection pooling for database
 - 2026-05-16: feat: add rate limiting middleware
 - 2026-05-16: docs: update architecture decision records
+- 2026-05-16: refactor: improve module structure and imports
