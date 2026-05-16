@@ -246,3 +246,4 @@
 - 2026-05-16: feat: implement caching layer with Redis
 - 2026-05-16: feat: implement health check endpoints
 - 2026-05-16: fix: handle null responses in API client
+- 2026-05-16: fix: correct timezone handling in scheduler
