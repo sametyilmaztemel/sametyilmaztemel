@@ -237,3 +237,4 @@
 - 2026-05-14: refactor: migrate to async/await pattern
 - 2026-05-14: chore: configure CI pipeline stages
 - 2026-05-14: refactor: extract shared utilities to common module
+- 2026-05-16: docs: update system architecture diagram
