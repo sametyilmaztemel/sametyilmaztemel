@@ -240,3 +240,4 @@
 - 2026-05-16: docs: update system architecture diagram
 - 2026-05-16: refactor: extract shared utilities to common module
 - 2026-05-16: chore: update dependencies and lockfile
+- 2026-05-16: refactor: migrate to async/await pattern
