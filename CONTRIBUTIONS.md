@@ -267,3 +267,4 @@
 - 2026-05-28: feat: implement caching layer with Redis
 - 2026-05-28: chore: update dependencies and lockfile
 - 2026-05-28: feat: add input validation layer
+- 2026-05-28: feat: add rate limiting middleware
