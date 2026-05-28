@@ -268,3 +268,4 @@
 - 2026-05-28: chore: update dependencies and lockfile
 - 2026-05-28: feat: add input validation layer
 - 2026-05-28: feat: add rate limiting middleware
+- 2026-05-28: docs: update architecture decision records
