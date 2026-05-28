@@ -273,3 +273,4 @@
 - 2026-05-28: docs: update system architecture diagram
 - 2026-05-28: fix: handle null responses in API client
 - 2026-05-28: perf: add connection pooling for database
+- 2026-05-28: feat: implement health check endpoints
