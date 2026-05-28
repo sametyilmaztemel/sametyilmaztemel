@@ -272,3 +272,4 @@
 - 2026-05-28: chore: configure CI pipeline stages
 - 2026-05-28: docs: update system architecture diagram
 - 2026-05-28: fix: handle null responses in API client
+- 2026-05-28: perf: add connection pooling for database
