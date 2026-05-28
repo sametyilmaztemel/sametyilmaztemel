@@ -277,3 +277,4 @@
 - 2026-05-28: refactor: improve module structure and imports
 - 2026-05-28: fix: resolve edge case in data pipeline
 - 2026-05-28: test: add property-based tests for parser
+- 2026-05-28: docs: create onboarding guide for new contributors
