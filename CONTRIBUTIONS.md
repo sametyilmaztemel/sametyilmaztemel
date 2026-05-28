@@ -279,3 +279,4 @@
 - 2026-05-28: test: add property-based tests for parser
 - 2026-05-28: docs: create onboarding guide for new contributors
 - 2026-05-28: fix: correct timezone handling in scheduler
+- 2026-05-28: refactor: simplify error handling with result type
