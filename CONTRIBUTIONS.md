@@ -270,3 +270,4 @@
 - 2026-05-28: feat: add rate limiting middleware
 - 2026-05-28: docs: update architecture decision records
 - 2026-05-28: chore: configure CI pipeline stages
+- 2026-05-28: docs: update system architecture diagram
