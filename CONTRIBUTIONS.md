@@ -287,3 +287,4 @@
 - 2026-05-28: docs: add API endpoint documentation
 - 2026-06-07: test: expand unit test coverage
 - 2026-06-07: feat: add input validation layer
+- 2026-06-07: refactor: extract shared utilities to common module
