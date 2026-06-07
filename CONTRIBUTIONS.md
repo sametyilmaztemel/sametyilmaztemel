@@ -299,3 +299,4 @@
 - 2026-06-07: fix: handle null responses in API client
 - 2026-06-07: chore: update dependencies and lockfile
 - 2026-06-07: feat: add rate limiting middleware
+- 2026-06-07: perf: optimize database query patterns
