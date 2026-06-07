@@ -297,3 +297,4 @@
 - 2026-06-07: test: add integration tests for auth flow
 - 2026-06-07: fix: correct timezone handling in scheduler
 - 2026-06-07: fix: handle null responses in API client
+- 2026-06-07: chore: update dependencies and lockfile
