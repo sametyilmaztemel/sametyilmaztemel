@@ -295,3 +295,4 @@
 - 2026-06-07: feat: implement caching layer with Redis
 - 2026-06-07: fix: resolve edge case in data pipeline
 - 2026-06-07: test: add integration tests for auth flow
+- 2026-06-07: fix: correct timezone handling in scheduler
