@@ -289,3 +289,4 @@
 - 2026-06-07: feat: add input validation layer
 - 2026-06-07: refactor: extract shared utilities to common module
 - 2026-06-07: docs: update architecture decision records
+- 2026-06-07: docs: add API endpoint documentation
