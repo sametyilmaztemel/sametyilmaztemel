@@ -285,3 +285,4 @@
 - 2026-05-28: test: add integration tests for auth flow
 - 2026-05-28: fix: patch memory leak in WebSocket handler
 - 2026-05-28: docs: add API endpoint documentation
+- 2026-06-07: test: expand unit test coverage
