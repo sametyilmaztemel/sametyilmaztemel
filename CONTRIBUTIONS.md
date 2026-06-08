@@ -305,3 +305,4 @@
 - 2026-06-08: docs: create onboarding guide for new contributors
 - 2026-06-08: fix: resolve edge case in data pipeline
 - 2026-06-08: docs: update architecture decision records
+- 2026-06-08: chore: configure CI pipeline stages
