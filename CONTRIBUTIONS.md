@@ -304,3 +304,4 @@
 - 2026-06-08: test: add integration tests for auth flow
 - 2026-06-08: docs: create onboarding guide for new contributors
 - 2026-06-08: fix: resolve edge case in data pipeline
+- 2026-06-08: docs: update architecture decision records
