@@ -306,3 +306,4 @@
 - 2026-06-08: fix: resolve edge case in data pipeline
 - 2026-06-08: docs: update architecture decision records
 - 2026-06-08: chore: configure CI pipeline stages
+- 2026-06-08: test: expand unit test coverage
