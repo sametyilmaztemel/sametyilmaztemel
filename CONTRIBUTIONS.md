@@ -320,3 +320,4 @@
 - 2026-06-08: docs: document deployment procedures
 - 2026-06-08: docs: add API endpoint documentation
 - 2026-06-08: feat: add rate limiting middleware
+- 2026-06-08: feat: implement health check endpoints
