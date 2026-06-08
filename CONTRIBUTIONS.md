@@ -302,3 +302,4 @@
 - 2026-06-07: perf: optimize database query patterns
 - 2026-06-07: refactor: improve module structure and imports
 - 2026-06-08: test: add integration tests for auth flow
+- 2026-06-08: docs: create onboarding guide for new contributors
