@@ -316,3 +316,4 @@
 - 2026-06-08: refactor: extract shared utilities to common module
 - 2026-06-08: feat: add input validation layer
 - 2026-06-08: feat: implement caching layer with Redis
+- 2026-06-08: refactor: improve module structure and imports
