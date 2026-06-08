@@ -311,3 +311,4 @@
 - 2026-06-08: refactor: migrate to async/await pattern
 - 2026-06-08: refactor: simplify error handling with result type
 - 2026-06-08: chore: update dependencies and lockfile
+- 2026-06-08: test: add property-based tests for parser
