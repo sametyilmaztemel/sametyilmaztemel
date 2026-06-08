@@ -318,3 +318,4 @@
 - 2026-06-08: feat: implement caching layer with Redis
 - 2026-06-08: refactor: improve module structure and imports
 - 2026-06-08: docs: document deployment procedures
+- 2026-06-08: docs: add API endpoint documentation
