@@ -321,3 +321,4 @@
 - 2026-06-08: docs: add API endpoint documentation
 - 2026-06-08: feat: add rate limiting middleware
 - 2026-06-08: feat: implement health check endpoints
+- 2026-06-08: fix: handle null responses in API client
