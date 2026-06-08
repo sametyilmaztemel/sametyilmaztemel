@@ -313,3 +313,4 @@
 - 2026-06-08: chore: update dependencies and lockfile
 - 2026-06-08: test: add property-based tests for parser
 - 2026-06-08: fix: correct timezone handling in scheduler
+- 2026-06-08: refactor: extract shared utilities to common module
