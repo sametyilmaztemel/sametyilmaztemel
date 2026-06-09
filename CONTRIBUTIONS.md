@@ -323,3 +323,4 @@
 - 2026-06-08: feat: implement health check endpoints
 - 2026-06-08: fix: handle null responses in API client
 - 2026-06-09: perf: optimize database query patterns
+- 2026-06-09: feat: implement caching layer with Redis
