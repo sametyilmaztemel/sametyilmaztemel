@@ -334,3 +334,4 @@
 - 2026-06-09: chore: configure CI pipeline stages
 - 2026-06-09: fix: handle null responses in API client
 - 2026-06-09: test: add property-based tests for parser
+- 2026-06-09: refactor: extract shared utilities to common module
