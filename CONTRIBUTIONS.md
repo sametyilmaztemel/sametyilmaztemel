@@ -326,3 +326,4 @@
 - 2026-06-09: feat: implement caching layer with Redis
 - 2026-06-09: refactor: improve module structure and imports
 - 2026-06-09: refactor: simplify error handling with result type
+- 2026-06-09: docs: create onboarding guide for new contributors
