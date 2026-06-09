@@ -328,3 +328,4 @@
 - 2026-06-09: refactor: simplify error handling with result type
 - 2026-06-09: docs: create onboarding guide for new contributors
 - 2026-06-09: refactor: migrate to async/await pattern
+- 2026-06-09: test: expand unit test coverage
