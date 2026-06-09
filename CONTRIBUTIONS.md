@@ -327,3 +327,4 @@
 - 2026-06-09: refactor: improve module structure and imports
 - 2026-06-09: refactor: simplify error handling with result type
 - 2026-06-09: docs: create onboarding guide for new contributors
+- 2026-06-09: refactor: migrate to async/await pattern
