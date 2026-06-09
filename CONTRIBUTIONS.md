@@ -335,3 +335,4 @@
 - 2026-06-09: fix: handle null responses in API client
 - 2026-06-09: test: add property-based tests for parser
 - 2026-06-09: refactor: extract shared utilities to common module
+- 2026-06-09: chore: update dependencies and lockfile
