@@ -342,3 +342,4 @@
 - 2026-06-09: docs: update architecture decision records
 - 2026-06-09: feat: add input validation layer
 - 2026-06-09: fix: resolve edge case in data pipeline
+- 2026-06-09: fix: correct timezone handling in scheduler
