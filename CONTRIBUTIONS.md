@@ -339,3 +339,4 @@
 - 2026-06-09: docs: document deployment procedures
 - 2026-06-09: feat: implement health check endpoints
 - 2026-06-09: docs: add API endpoint documentation
+- 2026-06-09: docs: update architecture decision records
