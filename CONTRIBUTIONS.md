@@ -337,3 +337,4 @@
 - 2026-06-09: refactor: extract shared utilities to common module
 - 2026-06-09: chore: update dependencies and lockfile
 - 2026-06-09: docs: document deployment procedures
+- 2026-06-09: feat: implement health check endpoints
