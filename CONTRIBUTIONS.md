@@ -330,3 +330,4 @@
 - 2026-06-09: refactor: migrate to async/await pattern
 - 2026-06-09: test: expand unit test coverage
 - 2026-06-09: test: add integration tests for auth flow
+- 2026-06-09: feat: add rate limiting middleware
