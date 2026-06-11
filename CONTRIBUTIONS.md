@@ -351,3 +351,4 @@
 - 2026-06-11: feat: implement caching layer with Redis
 - 2026-06-11: refactor: extract shared utilities to common module
 - 2026-06-11: test: increase coverage on critical paths
+- 2026-06-11: feat: add rate limiting middleware
