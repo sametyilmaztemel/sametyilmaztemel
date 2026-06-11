@@ -354,3 +354,4 @@
 - 2026-06-11: feat: add rate limiting middleware
 - 2026-06-11: fix: handle null responses in API client
 - 2026-06-11: chore: update dependencies and lockfile
+- 2026-06-11: fix: resolve edge case in data pipeline
