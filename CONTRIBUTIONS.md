@@ -371,3 +371,4 @@
 - 2026-06-11: fix: patch memory leak in WebSocket handler
 - 2026-06-11: perf: add connection pooling for database
 - 2026-06-11: chore: set up pre-commit hooks
+- 2026-06-11: refactor: simplify error handling with result type
