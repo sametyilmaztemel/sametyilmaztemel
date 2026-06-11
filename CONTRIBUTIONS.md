@@ -349,3 +349,4 @@
 - 2026-06-11: docs: document deployment procedures
 - 2026-06-11: perf: optimize database query patterns
 - 2026-06-11: feat: implement caching layer with Redis
+- 2026-06-11: refactor: extract shared utilities to common module
