@@ -365,3 +365,4 @@
 - 2026-06-11: fix: address race condition in queue consumer
 - 2026-06-11: docs: update system architecture diagram
 - 2026-06-11: docs: write runbook for incident response
+- 2026-06-11: refactor: break down monolithic service
