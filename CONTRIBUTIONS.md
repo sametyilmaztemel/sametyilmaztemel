@@ -352,3 +352,4 @@
 - 2026-06-11: refactor: extract shared utilities to common module
 - 2026-06-11: test: increase coverage on critical paths
 - 2026-06-11: feat: add rate limiting middleware
+- 2026-06-11: fix: handle null responses in API client
