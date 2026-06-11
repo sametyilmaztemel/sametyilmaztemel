@@ -345,3 +345,4 @@
 - 2026-06-09: fix: correct timezone handling in scheduler
 - 2026-06-11: docs: update architecture decision records (part 2)
 - 2026-06-11: refactor: migrate to async/await pattern
+- 2026-06-11: docs: add API endpoint documentation
