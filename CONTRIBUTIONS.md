@@ -353,3 +353,4 @@
 - 2026-06-11: test: increase coverage on critical paths
 - 2026-06-11: feat: add rate limiting middleware
 - 2026-06-11: fix: handle null responses in API client
+- 2026-06-11: chore: update dependencies and lockfile
