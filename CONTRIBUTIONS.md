@@ -356,3 +356,4 @@
 - 2026-06-11: chore: update dependencies and lockfile
 - 2026-06-11: fix: resolve edge case in data pipeline
 - 2026-06-11: test: add property-based tests for parser
+- 2026-06-11: fix: correct timezone handling in scheduler
