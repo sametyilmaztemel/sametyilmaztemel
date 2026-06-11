@@ -362,3 +362,4 @@
 - 2026-06-11: feat: add input validation layer
 - 2026-06-11: chore: configure CI pipeline stages
 - 2026-06-11: test: add integration tests for auth flow
+- 2026-06-11: fix: address race condition in queue consumer
