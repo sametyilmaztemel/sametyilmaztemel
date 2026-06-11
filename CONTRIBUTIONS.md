@@ -368,3 +368,4 @@
 - 2026-06-11: refactor: break down monolithic service
 - 2026-06-11: test: expand unit test coverage
 - 2026-06-11: docs: update architecture decision records
+- 2026-06-11: fix: patch memory leak in WebSocket handler
