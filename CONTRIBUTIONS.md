@@ -357,3 +357,4 @@
 - 2026-06-11: fix: resolve edge case in data pipeline
 - 2026-06-11: test: add property-based tests for parser
 - 2026-06-11: fix: correct timezone handling in scheduler
+- 2026-06-11: docs: create onboarding guide for new contributors
