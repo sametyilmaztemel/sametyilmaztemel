@@ -390,3 +390,4 @@
 - 2026-06-12: feat: add rate limiting middleware
 - 2026-06-12: fix: handle null responses in API client
 - 2026-06-12: refactor: improve module structure and imports
+- 2026-06-12: feat: add input validation layer
