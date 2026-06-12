@@ -389,3 +389,4 @@
 - 2026-06-12: refactor: simplify error handling with result type
 - 2026-06-12: feat: add rate limiting middleware
 - 2026-06-12: fix: handle null responses in API client
+- 2026-06-12: refactor: improve module structure and imports
