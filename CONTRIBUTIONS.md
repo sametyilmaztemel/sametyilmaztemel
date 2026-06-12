@@ -401,3 +401,4 @@
 - 2026-06-12: perf: optimize database query patterns
 - 2026-06-12: refactor: extract shared utilities to common module
 - 2026-06-12: fix: correct timezone handling in scheduler
+- 2026-06-12: test: expand unit test coverage
