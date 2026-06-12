@@ -387,3 +387,4 @@
 - 2026-06-12: test: add property-based tests for parser
 - 2026-06-12: docs: add API endpoint documentation
 - 2026-06-12: refactor: simplify error handling with result type
+- 2026-06-12: feat: add rate limiting middleware
