@@ -393,3 +393,4 @@
 - 2026-06-12: feat: add input validation layer
 - 2026-06-12: test: add integration tests for auth flow
 - 2026-06-12: test: increase coverage on critical paths
+- 2026-06-12: chore: update dependencies and lockfile
