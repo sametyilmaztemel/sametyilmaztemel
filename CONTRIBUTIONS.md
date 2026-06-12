@@ -396,3 +396,4 @@
 - 2026-06-12: chore: update dependencies and lockfile
 - 2026-06-12: refactor: break down monolithic service
 - 2026-06-12: chore: set up pre-commit hooks
+- 2026-06-12: docs: document deployment procedures
