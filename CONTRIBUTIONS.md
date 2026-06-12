@@ -385,3 +385,4 @@
 - 2026-06-12: docs: update architecture decision records
 - 2026-06-12: fix: patch memory leak in WebSocket handler
 - 2026-06-12: test: add property-based tests for parser
+- 2026-06-12: docs: add API endpoint documentation
