@@ -382,3 +382,4 @@
 - 2026-06-12: refactor: migrate to async/await pattern
 - 2026-06-12: chore: configure CI pipeline stages
 - 2026-06-12: docs: update system architecture diagram
+- 2026-06-12: docs: update architecture decision records
