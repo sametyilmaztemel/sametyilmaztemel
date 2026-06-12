@@ -378,3 +378,4 @@
 - 2026-06-12: feat: add structured logging with correlation IDs
 - 2026-06-12: feat: implement health check endpoints
 - 2026-06-12: fix: resolve edge case in data pipeline
+- 2026-06-12: perf: add connection pooling for database
