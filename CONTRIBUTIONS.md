@@ -5,3 +5,4 @@
 - 2026-04-19: docs: sync research notes
 - 2026-05-10: docs: add architecture notes
 - 2026-06-11: docs: update infrastructure docs
+- 2026-06-13: docs: add security findings summary
