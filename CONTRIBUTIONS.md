@@ -430,3 +430,4 @@
 - 2026-06-13: docs: create onboarding guide for new contributors
 - 2026-06-13: feat: add structured logging with correlation IDs
 - 2026-06-13: docs: update architecture decision records
+- 2026-06-13: fix: handle null responses in API client
