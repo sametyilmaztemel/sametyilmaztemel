@@ -406,3 +406,4 @@
 - 2026-06-13: chore: set up pre-commit hooks
 - 2026-06-13: docs: document deployment procedures
 - 2026-06-13: refactor: simplify error handling with result type
+- 2026-06-13: test: add integration tests for auth flow
