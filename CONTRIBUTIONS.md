@@ -423,3 +423,4 @@
 - 2026-06-13: refactor: extract shared utilities to common module
 - 2026-06-13: chore: configure CI pipeline stages
 - 2026-06-13: refactor: improve module structure and imports
+- 2026-06-13: fix: correct timezone handling in scheduler
