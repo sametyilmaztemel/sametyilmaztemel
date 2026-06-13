@@ -410,3 +410,4 @@
 - 2026-06-13: docs: add API endpoint documentation
 - 2026-06-13: refactor: break down monolithic service
 - 2026-06-13: refactor: migrate to async/await pattern
+- 2026-06-13: feat: implement caching layer with Redis
