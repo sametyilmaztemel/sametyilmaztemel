@@ -414,3 +414,4 @@
 - 2026-06-13: feat: implement health check endpoints
 - 2026-06-13: docs: update architecture decision records (part 2)
 - 2026-06-13: feat: add rate limiting middleware
+- 2026-06-13: fix: address race condition in queue consumer
