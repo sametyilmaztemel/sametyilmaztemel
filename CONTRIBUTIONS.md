@@ -407,3 +407,4 @@
 - 2026-06-13: docs: document deployment procedures
 - 2026-06-13: refactor: simplify error handling with result type
 - 2026-06-13: test: add integration tests for auth flow
+- 2026-06-13: docs: add API endpoint documentation
