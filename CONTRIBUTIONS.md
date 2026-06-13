@@ -417,3 +417,4 @@
 - 2026-06-13: fix: address race condition in queue consumer
 - 2026-06-13: test: expand unit test coverage
 - 2026-06-13: chore: update dependencies and lockfile
+- 2026-06-13: perf: optimize database query patterns
