@@ -424,3 +424,4 @@
 - 2026-06-13: chore: configure CI pipeline stages
 - 2026-06-13: refactor: improve module structure and imports
 - 2026-06-13: fix: correct timezone handling in scheduler
+- 2026-06-13: docs: update system architecture diagram
