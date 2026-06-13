@@ -409,3 +409,4 @@
 - 2026-06-13: test: add integration tests for auth flow
 - 2026-06-13: docs: add API endpoint documentation
 - 2026-06-13: refactor: break down monolithic service
+- 2026-06-13: refactor: migrate to async/await pattern
