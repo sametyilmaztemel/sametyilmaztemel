@@ -427,3 +427,4 @@
 - 2026-06-13: docs: update system architecture diagram
 - 2026-06-13: test: add property-based tests for parser
 - 2026-06-13: test: increase coverage on critical paths
+- 2026-06-13: docs: create onboarding guide for new contributors
