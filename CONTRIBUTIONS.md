@@ -452,3 +452,4 @@
 - 2026-06-14: chore: set up pre-commit hooks
 - 2026-06-14: refactor: break down monolithic service
 - 2026-06-14: chore: update dependencies and lockfile
+- 2026-06-14: test: add property-based tests for parser
