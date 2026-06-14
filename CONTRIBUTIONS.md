@@ -442,3 +442,4 @@
 - 2026-06-14: fix: resolve edge case in data pipeline
 - 2026-06-14: feat: implement health check endpoints
 - 2026-06-14: refactor: simplify error handling with result type
+- 2026-06-14: test: add integration tests for auth flow
