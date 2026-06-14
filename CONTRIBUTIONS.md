@@ -456,3 +456,4 @@
 - 2026-06-14: refactor: improve module structure and imports
 - 2026-06-14: feat: add input validation layer
 - 2026-06-14: fix: patch memory leak in WebSocket handler
+- 2026-06-14: fix: address race condition in queue consumer
