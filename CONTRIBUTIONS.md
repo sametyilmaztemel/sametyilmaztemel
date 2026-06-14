@@ -433,3 +433,4 @@
 - 2026-06-13: fix: handle null responses in API client
 - 2026-06-13: fix: resolve edge case in data pipeline
 - 2026-06-13: docs: write runbook for incident response
+- 2026-06-14: docs: update architecture decision records (part 2)
