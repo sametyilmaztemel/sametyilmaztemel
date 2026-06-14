@@ -460,3 +460,4 @@
 - 2026-06-14: docs: add API endpoint documentation
 - 2026-06-14: docs: update architecture decision records
 - 2026-06-14: docs: write runbook for incident response
+- 2026-06-14: feat: add structured logging with correlation IDs
