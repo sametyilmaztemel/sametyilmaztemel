@@ -455,3 +455,4 @@
 - 2026-06-14: test: add property-based tests for parser
 - 2026-06-14: refactor: improve module structure and imports
 - 2026-06-14: feat: add input validation layer
+- 2026-06-14: fix: patch memory leak in WebSocket handler
