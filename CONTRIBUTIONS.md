@@ -462,3 +462,4 @@
 - 2026-06-14: docs: write runbook for incident response
 - 2026-06-14: feat: add structured logging with correlation IDs
 - 2026-06-14: perf: optimize database query patterns
+- 2026-06-14: docs: document deployment procedures
