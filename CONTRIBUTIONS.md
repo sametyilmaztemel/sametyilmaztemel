@@ -454,3 +454,4 @@
 - 2026-06-14: chore: update dependencies and lockfile
 - 2026-06-14: test: add property-based tests for parser
 - 2026-06-14: refactor: improve module structure and imports
+- 2026-06-14: feat: add input validation layer
