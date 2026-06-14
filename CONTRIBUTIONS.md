@@ -449,3 +449,4 @@
 - 2026-06-14: docs: create onboarding guide for new contributors
 - 2026-06-14: fix: handle null responses in API client
 - 2026-06-14: fix: correct timezone handling in scheduler
+- 2026-06-14: chore: set up pre-commit hooks
