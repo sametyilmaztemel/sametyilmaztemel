@@ -446,3 +446,4 @@
 - 2026-06-14: feat: add rate limiting middleware
 - 2026-06-14: feat: implement caching layer with Redis
 - 2026-06-14: refactor: extract shared utilities to common module
+- 2026-06-14: docs: create onboarding guide for new contributors
