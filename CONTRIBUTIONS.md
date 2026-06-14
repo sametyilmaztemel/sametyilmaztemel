@@ -437,3 +437,4 @@
 - 2026-06-14: perf: add connection pooling for database
 - 2026-06-14: test: increase coverage on critical paths
 - 2026-06-14: refactor: migrate to async/await pattern
+- 2026-06-14: docs: update system architecture diagram
