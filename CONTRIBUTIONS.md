@@ -434,3 +434,4 @@
 - 2026-06-13: fix: resolve edge case in data pipeline
 - 2026-06-13: docs: write runbook for incident response
 - 2026-06-14: docs: update architecture decision records (part 2)
+- 2026-06-14: perf: add connection pooling for database
