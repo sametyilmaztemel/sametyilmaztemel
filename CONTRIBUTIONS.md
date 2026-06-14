@@ -444,3 +444,4 @@
 - 2026-06-14: refactor: simplify error handling with result type
 - 2026-06-14: test: add integration tests for auth flow
 - 2026-06-14: feat: add rate limiting middleware
+- 2026-06-14: feat: implement caching layer with Redis
