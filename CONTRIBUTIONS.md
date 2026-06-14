@@ -459,3 +459,4 @@
 - 2026-06-14: fix: address race condition in queue consumer
 - 2026-06-14: docs: add API endpoint documentation
 - 2026-06-14: docs: update architecture decision records
+- 2026-06-14: docs: write runbook for incident response
