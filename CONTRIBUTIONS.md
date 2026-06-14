@@ -450,3 +450,4 @@
 - 2026-06-14: fix: handle null responses in API client
 - 2026-06-14: fix: correct timezone handling in scheduler
 - 2026-06-14: chore: set up pre-commit hooks
+- 2026-06-14: refactor: break down monolithic service
