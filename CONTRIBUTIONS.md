@@ -435,3 +435,4 @@
 - 2026-06-13: docs: write runbook for incident response
 - 2026-06-14: docs: update architecture decision records (part 2)
 - 2026-06-14: perf: add connection pooling for database
+- 2026-06-14: test: increase coverage on critical paths
