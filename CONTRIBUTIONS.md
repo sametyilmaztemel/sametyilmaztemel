@@ -7,3 +7,4 @@
 - 2026-06-11: docs: update infrastructure docs
 - 2026-06-13: docs: add security findings summary
 - 2026-06-14: docs: sync development log
+- 2026-06-15: docs: update project status
