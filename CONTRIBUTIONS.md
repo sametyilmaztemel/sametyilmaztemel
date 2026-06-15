@@ -484,3 +484,4 @@
 - 2026-06-15: fix: address race condition in queue consumer
 - 2026-06-15: test: increase coverage on critical paths
 - 2026-06-15: feat: implement caching layer with Redis
+- 2026-06-15: docs: update system architecture diagram
