@@ -477,3 +477,4 @@
 - 2026-06-15: feat: add rate limiting middleware
 - 2026-06-15: refactor: migrate to async/await pattern
 - 2026-06-15: docs: add API endpoint documentation
+- 2026-06-15: docs: update architecture decision records (part 2)
