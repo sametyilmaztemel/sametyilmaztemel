@@ -470,3 +470,4 @@
 - 2026-06-15: docs: document deployment procedures
 - 2026-06-15: refactor: improve module structure and imports
 - 2026-06-15: refactor: break down monolithic service
+- 2026-06-15: docs: create onboarding guide for new contributors
