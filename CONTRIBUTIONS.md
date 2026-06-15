@@ -475,3 +475,4 @@
 - 2026-06-15: chore: set up pre-commit hooks
 - 2026-06-15: docs: write runbook for incident response
 - 2026-06-15: feat: add rate limiting middleware
+- 2026-06-15: refactor: migrate to async/await pattern
