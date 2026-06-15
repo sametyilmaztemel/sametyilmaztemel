@@ -471,3 +471,4 @@
 - 2026-06-15: refactor: improve module structure and imports
 - 2026-06-15: refactor: break down monolithic service
 - 2026-06-15: docs: create onboarding guide for new contributors
+- 2026-06-15: fix: handle null responses in API client
