@@ -480,3 +480,4 @@
 - 2026-06-15: docs: update architecture decision records (part 2)
 - 2026-06-15: refactor: simplify error handling with result type
 - 2026-06-15: refactor: extract shared utilities to common module
+- 2026-06-15: feat: add structured logging with correlation IDs
