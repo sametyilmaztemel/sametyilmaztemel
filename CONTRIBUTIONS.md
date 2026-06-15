@@ -488,3 +488,4 @@
 - 2026-06-15: chore: configure CI pipeline stages
 - 2026-06-15: fix: patch memory leak in WebSocket handler
 - 2026-06-15: fix: correct timezone handling in scheduler
+- 2026-06-15: test: expand unit test coverage
