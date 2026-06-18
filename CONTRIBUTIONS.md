@@ -495,3 +495,4 @@
 - 2026-06-15: perf: add connection pooling for database
 - 2026-06-15: test: add property-based tests for parser
 - 2026-06-15: docs: update architecture decision records
+- 2026-06-18: fix: resolve edge case in data pipeline
