@@ -521,3 +521,4 @@
 - 2026-06-18: docs: document deployment procedures
 - 2026-06-18: perf: optimize database query patterns
 - 2026-06-18: refactor: simplify error handling with result type
+- 2026-06-18: test: increase coverage on critical paths
