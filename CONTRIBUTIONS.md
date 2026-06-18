@@ -505,3 +505,4 @@
 - 2026-06-18: test: add integration tests for auth flow
 - 2026-06-18: test: add property-based tests for parser
 - 2026-06-18: feat: add rate limiting middleware
+- 2026-06-18: refactor: improve module structure and imports
