@@ -524,3 +524,4 @@
 - 2026-06-18: test: increase coverage on critical paths
 - 2026-06-18: fix: handle null responses in API client
 - 2026-06-18: refactor: break down monolithic service
+- 2026-06-18: refactor: migrate to async/await pattern
