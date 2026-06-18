@@ -522,3 +522,4 @@
 - 2026-06-18: perf: optimize database query patterns
 - 2026-06-18: refactor: simplify error handling with result type
 - 2026-06-18: test: increase coverage on critical paths
+- 2026-06-18: fix: handle null responses in API client
