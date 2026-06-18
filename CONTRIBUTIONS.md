@@ -513,3 +513,4 @@
 - 2026-06-18: docs: add API endpoint documentation
 - 2026-06-18: feat: implement health check endpoints
 - 2026-06-18: test: expand unit test coverage
+- 2026-06-18: refactor: extract shared utilities to common module
