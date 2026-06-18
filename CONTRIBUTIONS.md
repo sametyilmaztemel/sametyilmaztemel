@@ -501,3 +501,4 @@
 - 2026-06-18: chore: update dependencies and lockfile
 - 2026-06-18: chore: configure CI pipeline stages
 - 2026-06-18: chore: set up pre-commit hooks
+- 2026-06-18: fix: patch memory leak in WebSocket handler
