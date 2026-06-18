@@ -507,3 +507,4 @@
 - 2026-06-18: feat: add rate limiting middleware
 - 2026-06-18: refactor: improve module structure and imports
 - 2026-06-18: fix: correct timezone handling in scheduler
+- 2026-06-18: docs: update architecture decision records
