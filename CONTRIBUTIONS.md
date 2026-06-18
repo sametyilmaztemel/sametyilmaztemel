@@ -498,3 +498,4 @@
 - 2026-06-18: fix: resolve edge case in data pipeline
 - 2026-06-18: docs: update architecture decision records (part 2)
 - 2026-06-18: docs: create onboarding guide for new contributors
+- 2026-06-18: chore: update dependencies and lockfile
