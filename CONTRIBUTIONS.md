@@ -504,3 +504,4 @@
 - 2026-06-18: fix: patch memory leak in WebSocket handler
 - 2026-06-18: test: add integration tests for auth flow
 - 2026-06-18: test: add property-based tests for parser
+- 2026-06-18: feat: add rate limiting middleware
