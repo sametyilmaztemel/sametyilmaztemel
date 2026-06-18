@@ -509,3 +509,4 @@
 - 2026-06-18: fix: correct timezone handling in scheduler
 - 2026-06-18: docs: update architecture decision records
 - 2026-06-18: feat: implement caching layer with Redis
+- 2026-06-18: docs: write runbook for incident response
