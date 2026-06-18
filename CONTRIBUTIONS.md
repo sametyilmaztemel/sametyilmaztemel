@@ -516,3 +516,4 @@
 - 2026-06-18: refactor: extract shared utilities to common module
 - 2026-06-18: feat: add input validation layer
 - 2026-06-18: fix: address race condition in queue consumer
+- 2026-06-18: docs: update system architecture diagram
