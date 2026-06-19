@@ -536,3 +536,4 @@
 - 2026-06-19: test: expand unit test coverage
 - 2026-06-19: test: add integration tests for auth flow
 - 2026-06-19: docs: update architecture decision records
+- 2026-06-19: feat: add input validation layer
