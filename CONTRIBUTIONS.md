@@ -548,3 +548,4 @@
 - 2026-06-19: docs: add API endpoint documentation
 - 2026-06-19: fix: correct timezone handling in scheduler
 - 2026-06-19: feat: implement health check endpoints
+- 2026-06-19: feat: implement caching layer with Redis
