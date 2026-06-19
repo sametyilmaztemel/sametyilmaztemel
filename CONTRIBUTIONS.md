@@ -538,3 +538,4 @@
 - 2026-06-19: docs: update architecture decision records
 - 2026-06-19: feat: add input validation layer
 - 2026-06-19: chore: configure CI pipeline stages
+- 2026-06-19: refactor: migrate to async/await pattern
