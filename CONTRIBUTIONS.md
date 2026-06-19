@@ -526,3 +526,4 @@
 - 2026-06-18: refactor: break down monolithic service
 - 2026-06-18: refactor: migrate to async/await pattern
 - 2026-06-18: feat: add structured logging with correlation IDs
+- 2026-06-19: fix: handle null responses in API client
