@@ -546,3 +546,4 @@
 - 2026-06-19: refactor: improve module structure and imports
 - 2026-06-19: refactor: extract shared utilities to common module
 - 2026-06-19: docs: add API endpoint documentation
+- 2026-06-19: fix: correct timezone handling in scheduler
