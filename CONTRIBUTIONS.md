@@ -543,3 +543,4 @@
 - 2026-06-19: fix: resolve edge case in data pipeline
 - 2026-06-19: refactor: simplify error handling with result type
 - 2026-06-19: feat: add rate limiting middleware
+- 2026-06-19: refactor: improve module structure and imports
