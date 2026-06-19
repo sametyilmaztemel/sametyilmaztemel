@@ -537,3 +537,4 @@
 - 2026-06-19: test: add integration tests for auth flow
 - 2026-06-19: docs: update architecture decision records
 - 2026-06-19: feat: add input validation layer
+- 2026-06-19: chore: configure CI pipeline stages
