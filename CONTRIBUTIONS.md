@@ -535,3 +535,4 @@
 - 2026-06-19: chore: update dependencies and lockfile
 - 2026-06-19: test: expand unit test coverage
 - 2026-06-19: test: add integration tests for auth flow
+- 2026-06-19: docs: update architecture decision records
