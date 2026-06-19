@@ -528,3 +528,4 @@
 - 2026-06-18: feat: add structured logging with correlation IDs
 - 2026-06-19: fix: handle null responses in API client
 - 2026-06-19: fix: patch memory leak in WebSocket handler
+- 2026-06-19: docs: document deployment procedures
