@@ -576,3 +576,4 @@
 - 2026-06-20: test: add property-based tests for parser
 - 2026-06-20: test: expand unit test coverage
 - 2026-06-20: docs: write runbook for incident response
+- 2026-06-20: chore: set up pre-commit hooks
