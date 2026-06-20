@@ -574,3 +574,4 @@
 - 2026-06-20: refactor: extract shared utilities to common module
 - 2026-06-20: refactor: improve module structure and imports
 - 2026-06-20: test: add property-based tests for parser
+- 2026-06-20: test: expand unit test coverage
