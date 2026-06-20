@@ -566,3 +566,4 @@
 - 2026-06-20: docs: create onboarding guide for new contributors
 - 2026-06-20: refactor: break down monolithic service
 - 2026-06-20: feat: implement caching layer with Redis
+- 2026-06-20: docs: update system architecture diagram
