@@ -550,3 +550,4 @@
 - 2026-06-19: feat: implement health check endpoints
 - 2026-06-19: feat: implement caching layer with Redis
 - 2026-06-20: docs: document deployment procedures
+- 2026-06-20: docs: add API endpoint documentation
