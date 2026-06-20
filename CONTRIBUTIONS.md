@@ -564,3 +564,4 @@
 - 2026-06-20: fix: correct timezone handling in scheduler
 - 2026-06-20: fix: patch memory leak in WebSocket handler
 - 2026-06-20: docs: create onboarding guide for new contributors
+- 2026-06-20: refactor: break down monolithic service
