@@ -552,3 +552,4 @@
 - 2026-06-20: docs: document deployment procedures
 - 2026-06-20: docs: add API endpoint documentation
 - 2026-06-20: fix: address race condition in queue consumer
+- 2026-06-20: feat: add input validation layer
