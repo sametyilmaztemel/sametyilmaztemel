@@ -567,3 +567,4 @@
 - 2026-06-20: refactor: break down monolithic service
 - 2026-06-20: feat: implement caching layer with Redis
 - 2026-06-20: docs: update system architecture diagram
+- 2026-06-20: perf: add connection pooling for database
