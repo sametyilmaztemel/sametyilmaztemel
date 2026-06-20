@@ -561,3 +561,4 @@
 - 2026-06-20: test: add integration tests for auth flow
 - 2026-06-20: perf: optimize database query patterns
 - 2026-06-20: fix: resolve edge case in data pipeline
+- 2026-06-20: fix: correct timezone handling in scheduler
