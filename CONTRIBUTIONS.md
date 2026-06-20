@@ -578,3 +578,4 @@
 - 2026-06-20: docs: write runbook for incident response
 - 2026-06-20: chore: set up pre-commit hooks
 - 2026-06-20: refactor: migrate to async/await pattern
+- 2026-06-20: docs: update architecture decision records (part 2)
