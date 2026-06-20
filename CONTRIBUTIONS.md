@@ -571,3 +571,4 @@
 - 2026-06-20: fix: handle null responses in API client
 - 2026-06-20: chore: update dependencies and lockfile
 - 2026-06-20: feat: add structured logging with correlation IDs
+- 2026-06-20: refactor: extract shared utilities to common module
