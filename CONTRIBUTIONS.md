@@ -569,3 +569,4 @@
 - 2026-06-20: docs: update system architecture diagram
 - 2026-06-20: perf: add connection pooling for database
 - 2026-06-20: fix: handle null responses in API client
+- 2026-06-20: chore: update dependencies and lockfile
