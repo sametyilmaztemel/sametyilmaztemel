@@ -606,3 +606,4 @@
 - 2026-06-22: docs: create onboarding guide for new contributors
 - 2026-06-22: fix: correct timezone handling in scheduler
 - 2026-06-22: refactor: improve module structure and imports
+- 2026-06-22: refactor: migrate to async/await pattern
