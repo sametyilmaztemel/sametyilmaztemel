@@ -580,3 +580,4 @@
 - 2026-06-20: refactor: migrate to async/await pattern
 - 2026-06-20: docs: update architecture decision records (part 2)
 - 2026-06-20: docs: update architecture decision records
+- 2026-06-22: refactor: extract shared utilities to common module
