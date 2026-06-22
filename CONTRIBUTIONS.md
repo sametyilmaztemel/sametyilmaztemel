@@ -591,3 +591,4 @@
 - 2026-06-22: chore: update dependencies and lockfile
 - 2026-06-22: perf: optimize database query patterns
 - 2026-06-22: chore: configure CI pipeline stages
+- 2026-06-22: fix: patch memory leak in WebSocket handler
