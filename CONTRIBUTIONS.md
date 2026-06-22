@@ -603,3 +603,4 @@
 - 2026-06-22: feat: add structured logging with correlation IDs
 - 2026-06-22: test: add property-based tests for parser
 - 2026-06-22: chore: set up pre-commit hooks
+- 2026-06-22: docs: create onboarding guide for new contributors
