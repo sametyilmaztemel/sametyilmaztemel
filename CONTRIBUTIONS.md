@@ -586,3 +586,4 @@
 - 2026-06-22: docs: update system architecture diagram
 - 2026-06-22: feat: add rate limiting middleware
 - 2026-06-22: fix: resolve edge case in data pipeline
+- 2026-06-22: docs: document deployment procedures
