@@ -604,3 +604,4 @@
 - 2026-06-22: test: add property-based tests for parser
 - 2026-06-22: chore: set up pre-commit hooks
 - 2026-06-22: docs: create onboarding guide for new contributors
+- 2026-06-22: fix: correct timezone handling in scheduler
