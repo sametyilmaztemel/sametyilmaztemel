@@ -607,3 +607,4 @@
 - 2026-06-22: fix: correct timezone handling in scheduler
 - 2026-06-22: refactor: improve module structure and imports
 - 2026-06-22: refactor: migrate to async/await pattern
+- 2026-06-22: fix: handle null responses in API client
