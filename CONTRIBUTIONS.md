@@ -599,3 +599,4 @@
 - 2026-06-22: docs: update architecture decision records
 - 2026-06-22: feat: implement caching layer with Redis
 - 2026-06-22: feat: implement health check endpoints
+- 2026-06-22: docs: add API endpoint documentation
