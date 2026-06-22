@@ -582,3 +582,4 @@
 - 2026-06-20: docs: update architecture decision records
 - 2026-06-22: refactor: extract shared utilities to common module
 - 2026-06-22: test: add integration tests for auth flow
+- 2026-06-22: perf: add connection pooling for database
