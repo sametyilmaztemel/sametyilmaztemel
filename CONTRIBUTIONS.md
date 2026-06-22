@@ -594,3 +594,4 @@
 - 2026-06-22: fix: patch memory leak in WebSocket handler
 - 2026-06-22: refactor: simplify error handling with result type
 - 2026-06-22: test: increase coverage on critical paths
+- 2026-06-22: refactor: break down monolithic service
