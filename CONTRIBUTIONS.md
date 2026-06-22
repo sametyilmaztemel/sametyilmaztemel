@@ -597,3 +597,4 @@
 - 2026-06-22: refactor: break down monolithic service
 - 2026-06-22: test: expand unit test coverage
 - 2026-06-22: docs: update architecture decision records
+- 2026-06-22: feat: implement caching layer with Redis
