@@ -628,3 +628,4 @@
 - 2026-06-23: docs: create onboarding guide for new contributors
 - 2026-06-23: docs: add API endpoint documentation
 - 2026-06-23: docs: document deployment procedures
+- 2026-06-23: perf: add connection pooling for database
