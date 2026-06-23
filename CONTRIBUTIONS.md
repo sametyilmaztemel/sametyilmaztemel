@@ -626,3 +626,4 @@
 - 2026-06-23: test: add integration tests for auth flow
 - 2026-06-23: feat: implement caching layer with Redis
 - 2026-06-23: docs: create onboarding guide for new contributors
+- 2026-06-23: docs: add API endpoint documentation
