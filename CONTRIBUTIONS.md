@@ -612,3 +612,4 @@
 - 2026-06-23: perf: optimize database query patterns
 - 2026-06-23: test: expand unit test coverage
 - 2026-06-23: fix: patch memory leak in WebSocket handler
+- 2026-06-23: feat: add rate limiting middleware
