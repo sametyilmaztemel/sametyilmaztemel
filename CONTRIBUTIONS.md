@@ -630,3 +630,4 @@
 - 2026-06-23: docs: document deployment procedures
 - 2026-06-23: perf: add connection pooling for database
 - 2026-06-23: test: add property-based tests for parser
+- 2026-06-23: fix: handle null responses in API client
