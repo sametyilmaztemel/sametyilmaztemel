@@ -614,3 +614,4 @@
 - 2026-06-23: fix: patch memory leak in WebSocket handler
 - 2026-06-23: feat: add rate limiting middleware
 - 2026-06-23: feat: implement health check endpoints
+- 2026-06-23: refactor: improve module structure and imports
