@@ -619,3 +619,4 @@
 - 2026-06-23: docs: update architecture decision records
 - 2026-06-23: fix: correct timezone handling in scheduler
 - 2026-06-23: chore: update dependencies and lockfile
+- 2026-06-23: refactor: simplify error handling with result type
