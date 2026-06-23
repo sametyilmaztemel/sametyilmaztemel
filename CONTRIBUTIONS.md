@@ -620,3 +620,4 @@
 - 2026-06-23: fix: correct timezone handling in scheduler
 - 2026-06-23: chore: update dependencies and lockfile
 - 2026-06-23: refactor: simplify error handling with result type
+- 2026-06-23: fix: resolve edge case in data pipeline
